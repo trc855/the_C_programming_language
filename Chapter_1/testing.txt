@@ -1,0 +1,5 @@
+testing
+test	ing
+test\bing
+test\ing
+testing
